@@ -23,7 +23,7 @@ The theoretical model established is:
 ## Model Visualization
 Below is the scatter plot along with the fitted OLS regression line:
 
-![Regression Line](./regresyon_grafigi.png)
+![Regression Line](https://github.com/sagharsoleymani992-hue/forest-fires-linear-regression/blob/main/forest-fires-linear-regression/regresyon_grafigi.png)
 
 ## 📄 Full Academic Report
-For comprehensive interpretations and hypothesis testing details, please review the complete final document: **[View Report.pdf](./Report.pdf)**
+For comprehensive interpretations and hypothesis testing details, please review the complete final document: **[View Report.pdf](forest-fires-linear-regression/forest-fires-linear-regression)**

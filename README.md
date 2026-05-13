@@ -2,7 +2,7 @@
 
 This repository contains an end-to-end data analytics and statistical modeling project. It explores the relationship between wind speed and ambient temperature using the open-source **Forest Fires** dataset.
 
-## 📊 Project Overview
+## Project Overview
 - **Objective:** To statistically model the linear relationship between wind speed (`wind`) and temperature (`temp`) using Ordinary Least Squares (OLS) regression.
 - **Dataset:** 517 complete observations from the Forest Fires dataset.
 - **Methodology:** Descriptive and inferential statistical analysis implemented in Python.
